@@ -1,0 +1,4 @@
+repos:
+  - abelgvidal/puller
+  - hashicorp/terraform-provider-aws
+token: YOUR_PERSONAL_TOKEN_GITHUB
